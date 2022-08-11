@@ -1,0 +1,25 @@
+body {
+  min-height: auto;
+}
+.jumbotron {
+  padding: 5rem;
+  background-color: rgb(185, 245, 254);
+}
+
+#projects {
+  padding: 2rem;
+  background-color: rgb(185, 245, 254);
+}
+
+#contact {
+  padding: 2rem;
+  background-color: azure;
+}
+
+#achievement {
+  padding: 2rem;
+}
+
+section {
+  padding-top: 5rem;
+}
